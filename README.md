@@ -1,3 +1,3 @@
 # light-mode-dark-mode link: https://manikmt01.github.io/light-mode-dark-mode/
 
-#Manik MT
+Coding by Manik MT
